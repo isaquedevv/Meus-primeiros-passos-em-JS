@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')();
 
-console.log("--- Cálculo do valor de uma Prestação em Atraso ---");
+console.log("--- Troca de Valores entre Variáveis ---");
 
 let a = Number(prompt("Insira o valor A: "));
 let b = Number(prompt("Insira o valor B: "));
