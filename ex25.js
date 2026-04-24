@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')();
 
-console.log("--- Cálculo de Raiz ---");
+console.log("--- Sucessor e Antecessor de um Número Inteiro ---");
 
 let v1 = Number(prompt("Insira um valor numérico inteiro: "));
 
